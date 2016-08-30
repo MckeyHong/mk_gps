@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#DetailModal #item-list {
+    margin-top: -10px;
+    padding: 6px;
+}
+
+#DetailModal .add-item {
+    margin:0 10px 5px 0;
+    border:1px solid #ccc;
+}
+
+#DetailModal .item-area-word{
+    margin-left: 3px;
+    padding: 3px;
+    line-height: 20px;
+}
+
+#DetailModal .btn-del-item {
+    margin: 3px 3px 3px 0;
+    padding: 5px;
+    line-height: 2px;
+}

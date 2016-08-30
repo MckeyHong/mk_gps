@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+hr {
+    margin: 10px 0 10px 0;
+}
+
+.day {
+    margin-bottom: 8px;
+    color: #999;
+}
+
+.btn-default.disabled {
+ background-color: #90a4ae;
+}

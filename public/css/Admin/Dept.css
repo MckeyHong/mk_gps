@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#list-table .btn-add, #list-table .btn-edit, #list-table .btn-delete {
+    cursor: pointer;
+}
+
+.dept_2{
+    padding-left: 15px;
+}
+.dept_3{
+    margin-left: 30px;
+}
+.dept_4{
+    margin-left: 45px;
+}
+#test-1, #test-2, #test-3{
+    cursor: pointer;
+}

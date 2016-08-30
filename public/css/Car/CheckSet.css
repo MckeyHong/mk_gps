@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#DetailModal #item-list{
+    border: 1px solid #ccc;
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+#DetailModal .add-item{
+    margin-bottom: 5px;
+}
